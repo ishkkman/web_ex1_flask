@@ -1,0 +1,11 @@
+# Python 가상환경 및 캐시
+backend/venv/
+backend/__pycache__/
+backend/uploads/
+
+# Node 모듈 및 빌드 결과
+frontend/node_modules/
+frontend/build/
+
+# macOS 시스템 파일
+.DS_Store
